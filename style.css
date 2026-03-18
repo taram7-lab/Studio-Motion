@@ -1,0 +1,22 @@
+.hero {
+    height: 90vh;
+    width: 100vw;
+    background-image: url(./images/valentinovo.JPG);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+
+body {
+    overflow-x: hidden;
+}
+
+.herokon {
+    height: 80vh;
+    width: 100vw;
+    background-image: url(./images/IMG_6983.JPG);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
